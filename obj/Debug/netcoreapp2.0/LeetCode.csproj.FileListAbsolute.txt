@@ -1,0 +1,11 @@
+D:\Study\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.deps.json
+D:\Study\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.runtimeconfig.json
+D:\Study\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.runtimeconfig.dev.json
+D:\Study\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.dll
+D:\Study\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.pdb
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.csprojAssemblyReference.cache
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfoInputs.cache
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfo.cs
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.dll
+D:\Study\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.pdb

@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\soulgame\\.nuget\\packages\\": {},
-    "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Super\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Study\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "d:\\Study\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "D:\\Work\\Study\\LeetCode\\LeetCode.csproj",
-      "packagesPath": "C:\\Users\\soulgame\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Study\\LeetCode\\obj\\",
+      "projectPath": "d:\\Study\\LeetCode\\LeetCode.csproj",
+      "packagesPath": "C:\\Users\\Super\\.nuget\\packages\\",
+      "outputPath": "d:\\Study\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\soulgame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Super\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -705,6 +703,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
