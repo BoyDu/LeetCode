@@ -6,7 +6,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Solution_TwoSum.Start();
+           // Solution_TwoSum.Start();
+            Soulution_Intersection.Start();
         }
     }
 }
