@@ -1,7 +1,7 @@
 using System;
 using Common;
 
-class Solution_IsValidBST
+public class Solution_IsValidBST
 {
     public static void Start()
     {

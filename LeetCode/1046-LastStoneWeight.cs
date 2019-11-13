@@ -1,6 +1,6 @@
 using System;
 
-class Soulution_LastStoneWeight
+public class Soulution_LastStoneWeight
 {
     public static void Start()
     {

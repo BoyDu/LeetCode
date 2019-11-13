@@ -1,5 +1,5 @@
 using System;
-class Soulation_SearchMatrix
+public class Soulation_SearchMatrix
 {
     public static void Start()
     {

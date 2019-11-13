@@ -1,6 +1,6 @@
 using Common;
 
-class Solution_AddTwoNumber {
+public class Solution_AddTwoNumber {
     public static void Start () {
         ListNode l_1_head = new ListNode (2);
         ListNode l_1_1 = new ListNode (4);
